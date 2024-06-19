@@ -17,5 +17,5 @@ This is first commit from main branch
 * $ git merge my-feature-branch --
 
 * this is commit-1
-
+* this is commit-2
  
