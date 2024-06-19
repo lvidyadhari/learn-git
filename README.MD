@@ -10,3 +10,12 @@ This is first commit from main branch
 * rebase is another branch 
 * rebase is still developing
 * rebase developing is completed now
+
+
+### squash
+* while on master
+* $ git merge my-feature-branch --
+
+* this is commit-1
+* this is commit-2
+ 
