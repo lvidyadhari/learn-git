@@ -19,3 +19,5 @@ This is first commit from main branch
 * this is commit-1
 * this is commit-2
  
+
+ * im developer-1 from conflict
