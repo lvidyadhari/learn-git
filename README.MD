@@ -18,4 +18,9 @@ This is first commit from main branch
 
 * this is commit-1
 * this is commit-2
+
+### conflict
+* CONFLICT IS WHEN GIT FINDS DIFFERENT LINE OF CODE IN ONELINE OR SAME LINE THEN IT REFLECTS AS CONFLICTS
+* this is from developer-1. I want to keep this line of code
+
  
